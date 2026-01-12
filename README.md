@@ -60,7 +60,7 @@ Standalone **Sinhala Word Processor** with:
 
 ---
 
-⭐️ *If you find my work useful, consider giving it a star — it helps others discover it too!*
+⭐️ *If you find my work useful, consider giving it a star :) it helps others discover it too!*
 
 <!--
 **amilapcsgit/amilapcsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
