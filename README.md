@@ -11,8 +11,21 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
+### [ARES Network Sentinel](https://github.com/amilapcsgit/AresWin)  **A sci-fi themed real-time network monitoring dashboard built with .NET 8 and WPF.**
+> 
+ARES wraps **native Windows networking utilities** (`netstat`, `netsh`) and enriches their output with **process intelligence, geolocation, and heuristic risk analysis**, presented through a GPU-accelerated WPF interface.
+> ✅ **live network map**
+✅ **process-aware connection inspector** 
+✅ **manual response console** for suspicious activity
+All without kernel drivers, services, or invasive hooks.
+#### How to run AresWin?
+[![Download Latest](https://img.shields.io/badge/DOWNLOAD-ARES_v1.2-00eaff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/amilapcsgit/AresWin/releases/latest/download/AresWin-Setup.zip)
+1. **Extract** the ZIP file to any folder.
+2. Run **`AresWin.exe`**. * *Note: Run as Administrator to enable Firewall Blocking and Process Termination features.*
+> ![Repo stars](https://img.shields.io/github/stars/amilapcsgit/areswin?style=social)  ![Repo forks](https://img.shields.io/github/forks/amilapcsgit/areswin?style=social)
+---
 ### [Sinhala Word Processor](https://github.com/amilapcsgit/sinhala-word)
 Standalone **Sinhala Word Processor** with:  
 ✅ Singlish → Sinhala transliteration  
@@ -20,15 +33,14 @@ Standalone **Sinhala Word Processor** with:
 ✅ Export to DOCX & PDF (Unicode-ready)  
 ✅ Built with **Python + PyQt6 + QFluentWidgets**  
 
-![Repo stars](https://img.shields.io/github/stars/amilapcsgit/sinhala-word?style=social)  
-![Repo forks](https://img.shields.io/github/forks/amilapcsgit/sinhala-word?style=social)
+> ![Repo stars](https://img.shields.io/github/stars/amilapcsgit/sinhala-word?style=social)  ![Repo forks](https://img.shields.io/github/forks/amilapcsgit/sinhala-word?style=social)
 
 ---
 
 ## 🛠 Tech Toolbox
 
 **Languages & Frameworks**  
-`Python` `PowerShell` `Bash` `PyQt6` `QFluentWidgets`
+`C#` `WPF` `Python` `PowerShell` `Bash` `PyQt6` `QFluentWidgets`
 
 **Infrastructure & Systems**  
 `VMware` `Windows Server` `Veeam` `QNAP NAS` `NetApp` `Palo Alto`  
