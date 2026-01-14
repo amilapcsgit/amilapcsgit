@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&section=header&text=AmilaPCS&color=gradient&fontSize=60&fontAlign=50&fontAlignY=35&desc=SYSTEM%20ARCHITECT%20//%20DE%20FACTO%20CTO%20//%20BUILDER&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="AmilaPCS Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient&section=header&text=AmilaPCS&fontSize=60&fontAlign=50&fontAlignY=35&desc=SYSTEM%20ARCHITECT%20//%20DE%20FACTO%20CTO%20//%20BUILDER&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="AmilaPCS Banner" width="100%"/>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing_System...;User_Identity:_L.J.Amila_Prasad_Perera;Access_Level:_ROOT_ADMIN;Status:25_years_in_IT_infrastructure;_server_hardware,_data_protection_:_business_continuity;Authenticating_User:_AmilaPCS;Access_Level:SUPER_ADMINISTRATOR;Loading_Modules:_INFRA_+_CODE...&font=Fira+Code&center=true&width=600&height=40&color=00EAFF&vCenter=true&background=00000000&size=18" alt="Boot Sequence" />
 </a>
@@ -29,34 +29,7 @@
 
 ### 💠 SYSTEM MANIFEST **"Bridging the gap between Enterprise Silicon and Human Interfaces."**
 I am a veteran **Infrastructure Architect** and **IT Manager** specializing in server hardware, data protection, and business continuity. I build free tools that visualize complex data and localize computing for everyone.
-
----
-
-### 🛠 ARSENAL // TECH STACK
-
-<div align="center">
-
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<br/>
-<!-- Infrastructure -->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
-<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-<br/>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/WPF-UI-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-
-</div>
-
----
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ### 🚀 DEPLOYED SOFTWARE
 
 <div align="center">
@@ -119,3 +92,26 @@ ARES wraps **native Windows networking utilities** (`netstat`, `netsh`) and enri
 
 </div>
 
+### 🛠 ARSENAL // TECH STACK
+
+<div align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<br/>
+<!-- Infrastructure -->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
+<img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+<br/>
+<!-- Tools -->
+<img src="https://img.shields.io/badge/WPF-UI-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qt_6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
